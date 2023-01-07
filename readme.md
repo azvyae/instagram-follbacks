@@ -1,4 +1,4 @@
-# GetMyInstagramFollback
+# Instagram Follbacks
 
 GetMyInstagramFollback is a Python console application that allows you to see which of your Instagram followers are not following you back. You can also exclude certain users from the list (for example, official accounts that are clearly not going to follow you back but you don't want to include them in the list). You can also keep track of the accounts you have unfollowed by saving them in a list, so that they don't appear in the list again.
 
@@ -12,6 +12,11 @@ Example command:
 
 Copy code
 
-`python main.py johnsmith` 
+```shell
+python main.py johnsmith
+``` 
+
+thanks to [@talaexe](https://github.com/talaexe) for inspiring me expanding the [WhoDoesntFollowBackIG](https://github.com/talaexe/WhoDoesntFollowBackIG) functionality
+
 
 I hope this helps! Let me know if you have any questions.
